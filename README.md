@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Joey!
 
 I'm a developer who loves building useful tools and cool websites. I enjoy working on SaaS products, especially ones that help small businesses and creators. At night, I brainstorm ideas and bring them to life with code.
 
