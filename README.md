@@ -14,12 +14,22 @@ My actual name is Joey and I'm a **full-time student at Adelphi University** who
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 ### [Compyy](https://compyy.org)  
 **The educational gaming platform for teachers and students.**  
 Empowering classrooms with interactive, engaging games—making learning fun and effective!  
 Check it out and help spread the word!
+
+### [Income Tracker](https://income-tracker-ebon,vercel.app)  
+**3 Apps in 1! An app meant for controlling and managing your life! .**  
+In Income Tracker(Still figuring out a good name), you can manage your finances, workout plan, and even your nutrition! All data tracked is only available to you, as nothing is uploaded to the cloud. Ultimate privacy because your life is your business.
+Feel free to check it out, and maybe it will be useful to you too!
+
+### [Adelphi AI Society](https://adelphiaisociety.vercel.app)  
+**Adelphi AI Society: Teaching others the usefulness of AI for good**  
+This is the official website for the Adelphi AI Society. It highlights our board members, events, and allows new members to introduce themselves so they can attend our meetings in the future.
+Do you want to be a member? Check it out!
 
 ---
 
