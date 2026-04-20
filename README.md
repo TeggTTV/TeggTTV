@@ -11,6 +11,7 @@ I'm a **full-time student at Adelphi University** who loves building solutions f
 - 💻 **Programmer:** Specializing in **TypeScript** & **Python**
 - 🏀 **Athlete:** Passionate about basketball, badminton, tennis, volleyball, and table tennis
 - 😄 Just a Friendly Introvert _trying_ to socialize
+- 🌐 See more on my [website](https://joeyjazwinski.com)
 
 ---
 
