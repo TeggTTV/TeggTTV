@@ -1,7 +1,7 @@
-# 👋 Hi, I'm TeggTTV!
+# 👋 Hi, I'm Joey!
 
 Welcome to my GitHub profile!  
-My actual name is Joey and I'm a **full-time student at Adelphi University** who loves building solutions for real-world challenges, especially in education.
+I'm a **full-time student at Adelphi University** who loves building solutions for real-world challenges, especially in education.
 
 ---
 
