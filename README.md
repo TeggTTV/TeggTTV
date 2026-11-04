@@ -17,6 +17,12 @@ I'm a **full-time student at Adelphi University** who loves building solutions f
 
 ## 🌟 Featured Projects
 
+
+### [Jazz Docs](https://github.com/TeggTTV/JazzDocs)  
+**The Document Editor that you're excited to open.**  
+Enabled with plenty of quality-of-life and user-oriented features, this document editor excels locally by saving to your computer instead of the cloud. 
+Check out the repo for more information and updates!
+
 ### [Compyy](https://compyy.org)  
 **The educational gaming platform for teachers and students.**  
 Empowering classrooms with interactive, engaging games—making learning fun and effective!  
